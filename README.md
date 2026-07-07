@@ -29,4 +29,3 @@ Building software, exploring AI, and solving problems one project at a time.
 
 
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=asma1463&layout=compact&langs_count=8&theme=tokyonight" alt="asma1463" /></p>
