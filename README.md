@@ -7,7 +7,7 @@ Computer Science Student.
 Building software, exploring AI, and solving problems one project at a time.
 
 
- - 🌱 I’m currently learning **Agentic AI **
+ - 🌱 I’m currently exploring "Agentic AI "
 
  - 📫 How to reach me **asmaa.khan.wk@gmail.com**
 
